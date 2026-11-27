@@ -1,14 +1,14 @@
 # ☀️ Liga de Pronóstico Solar Colombia — Leaderboard
 
-_Actualizado: 2026-11-26 16:10 (hora Colombia) · Métrica: MAE en horas de sol (06–18 h) · Skill = 1 − MAE/MAE_persistencia (positivo = le ganas a la persistencia)_
+_Actualizado: 2026-11-27 15:54 (hora Colombia) · Métrica: MAE en horas de sol (06–18 h) · Skill = 1 − MAE/MAE_persistencia (positivo = le ganas a la persistencia)_
 
 ## 🏆 Liga oficial (predicciones hechas ANTES de conocer el dato real)
 
 | # | Modelo | Autor | Días | MAE (MWh) | nMAE | Skill vs persistencia |
 |---|---|---|---|---|---|---|
-| 🥇 | SolarNet-GRU | profe | 31 | 221.6 | 15.0% | +20.1% |
-| 🥈 | Persistencia × radiación | profe | 31 | 235.3 | 15.9% | +27.4% |
-| 🥉 | Persistencia | profe | 31 | 374.8 | 25.4% | — |
+| 🥇 | SolarNet-GRU | profe | 32 | 219.7 | 14.8% | +19.2% |
+| 🥈 | Persistencia × radiación | profe | 32 | 232.7 | 15.7% | +26.6% |
+| 🥉 | Persistencia | profe | 32 | 367.8 | 24.8% | — |
 
 ![último día](resultados/ultimo_dia.png)
 
